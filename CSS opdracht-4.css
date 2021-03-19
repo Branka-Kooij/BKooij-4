@@ -1,0 +1,35 @@
+body { 
+    color:#025955;
+    font-family:sans-serif;
+    background: #eafbea;
+    line-height: 1.6em
+}
+.fruit{
+    border-bottom: 1px dotted;
+    text-align: center;
+}
+#foot {
+    background-color: blanchedalmond; 
+    text-align: center;
+    border-radius: 5px ;
+    border-bottom: 3px solid;
+    position:fixed;
+    bottom: 1px;
+    border-bottom-left-radius: 5px
+    
+}
+#fruit {
+    
+    text-align: center; 
+    align-content: center;
+    
+}
+#branka{
+    border-radius: 20%
+}
+#aboutme { position: fixed; right :100px; top:0}
+.Homepage {position: fixed; right:100px; top:0}
+#naslov {font-family:sans-serif;
+font-size: 50px;
+text-align:center;
+font-style: italic}
